@@ -127,7 +127,7 @@ Tell us about your store — a senior Shopify developer replies within one busin
 
 <div align="center">
 
-<a href="https://mgroupweb.com/"><img src="./profile/assets/mark.svg" alt="Mgroup" width="56" height="56"></a>
+<a href="https://mgroupweb.com/"><img src="/profile/assets/mark.svg" alt="Mgroup" width="56" height="56"></a>
 
 [Website](https://mgroupweb.com/) · [About Us](https://mgroupweb.com/shopify-plus-agency/) · [LinkedIn](https://www.linkedin.com/company/monkeygroup-llc/) · [X](https://twitter.com/MgroupWeb) · [Facebook](https://www.facebook.com/mgroup.dp) · [Instagram](https://www.instagram.com/mgroupweb/) · [Shopify Partner Directory](https://www.shopify.com/partners/directory/partner/mgroup)
 
