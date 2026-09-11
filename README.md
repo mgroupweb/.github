@@ -2,9 +2,9 @@
 
 <a href="https://mgroupweb.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".profile/assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset=".profile/assets/banner-light.svg">
-    <img alt="Mgroup — Shopify Development Agency, certified Shopify Select Partner since 2016" src=".profile/assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/assets/banner-light.svg">
+    <img alt="Mgroup — Shopify Development Agency, certified Shopify Select Partner since 2016" src="/profile/assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
