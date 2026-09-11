@@ -2,9 +2,9 @@
 
 <a href="https://mgroupweb.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Mgroup — Shopify Development Agency, certified Shopify Select Partner since 2016" src="./assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset=".profile/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".profile/assets/banner-light.svg">
+    <img alt="Mgroup — Shopify Development Agency, certified Shopify Select Partner since 2016" src=".profile/assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -127,7 +127,7 @@ Tell us about your store — a senior Shopify developer replies within one busin
 
 <div align="center">
 
-<a href="https://mgroupweb.com/"><img src="./assets/mark.svg" alt="Mgroup" width="56" height="56"></a>
+<a href="https://mgroupweb.com/"><img src="./profile/assets/mark.svg" alt="Mgroup" width="56" height="56"></a>
 
 [Website](https://mgroupweb.com/) · [About Us](https://mgroupweb.com/shopify-plus-agency/) · [LinkedIn](https://www.linkedin.com/company/monkeygroup-llc/) · [X](https://twitter.com/MgroupWeb) · [Facebook](https://www.facebook.com/mgroup.dp) · [Instagram](https://www.instagram.com/mgroupweb/) · [Shopify Partner Directory](https://www.shopify.com/partners/directory/partner/mgroup)
 
